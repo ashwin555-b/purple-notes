@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Purple Notes</string>
+    <string name="widget_name">Purple Notes Widget</string>
+    <string name="widget_description">Your latest note on your home screen.</string>
+</resources>
